@@ -1,4 +1,4 @@
 # hellogit
 Przykładowe repozytorium do nauki obsługi gita
-#credits
+# credits
 This repository...
